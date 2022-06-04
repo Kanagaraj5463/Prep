@@ -5,4 +5,4 @@ Pass: -----
 
 Udemy 
 DevOps: https://www.udemy.com/course/valaxy-devops/
-Python: loaded soon 
+Python: https://www.udemy.com/course/complete-python-scripting-for-automation/
